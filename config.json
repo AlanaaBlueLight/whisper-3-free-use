@@ -1,0 +1,23 @@
+{
+    "default_language": "en",
+    "translations": {
+        "en": {
+            "recording": "🔴 Recording",
+            "stopped": "🔄 Stopped recording",
+            "tutorial": "to begin or end a recording, press ",
+            "halt": "press alt+c to halt the program",
+            "transcription": "🗣️",
+            "language": "The language is currently set to: ",
+            "model": "The model is currently set to: "
+        },
+        "fr": {
+            "recording": "🔴 Enregistrement",
+            "stopped": "🔄 Enregistrement arrêté",
+            "tutorial": "pour commencer ou arrêter un enregistrement, appuyez sur ",
+            "halt": "appuyez sur alt+c pour arrêter le programme",
+            "transcription": "🗣️",
+            "language": "La langue est actuellement définie sur : ",
+            "model": "Le modèle est actuellement défini sur : "
+        }
+    }
+}

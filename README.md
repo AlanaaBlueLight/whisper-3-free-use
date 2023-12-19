@@ -1,0 +1,4 @@
+# WHISPER OPEN AI MODEL 
+
+
+
